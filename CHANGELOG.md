@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.19 (2026-01-05)
+
+**Other changes:**
+
+- chore: remove npm @sencha:registry (● [962499b](https://github.com/c0rejs/playwright/commit/962499b); 👬 zdm)
+
+Compare with the previous release: [v2.10.18](https://github.com/c0rejs/playwright/compare/v2.10.18...v2.10.19)
+
 ### v2.10.18 (2025-12-11)
 
 **Bug fixes:**
