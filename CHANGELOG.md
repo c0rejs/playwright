@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.42 (2026-08-04)
+
+**Other changes:**
+
+- chore: rename ccli to zcli (● [e2d2c98](https://github.com/corejslib/playwright/commit/e2d2c98), [4f58b9c](https://github.com/corejslib/playwright/commit/4f58b9c), [aacfac7](https://github.com/corejslib/playwright/commit/aacfac7); 👬 zdm)
+
+Compare with the previous release: [v2.10.41...v2.10.42](https://github.com/corejslib/playwright/compare/v2.10.41...v2.10.42)
+
 ### v2.10.41 (2026-08-04)
 
 **Other changes:**

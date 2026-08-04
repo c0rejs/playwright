@@ -1,6 +1,6 @@
 {
     "name": "@corejslib/playwright",
-    "version": "2.10.41",
+    "version": "2.10.42",
     "description": "Playwright wrapper",
     "homepage": "https://corejslib.github.io/playwright/",
     "bugs": {
